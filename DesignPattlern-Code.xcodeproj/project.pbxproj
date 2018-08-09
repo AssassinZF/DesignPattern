@@ -17,6 +17,8 @@
 		0113BBC8211ACFE600E44B7E /* Group-Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0113BBC7211ACFE600E44B7E /* Group-Pattern.swift */; };
 		0113BBCA211AD52E00E44B7E /* Decorator-Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0113BBC9211AD52E00E44B7E /* Decorator-Pattern.swift */; };
 		0113BBCC211AE1C700E44B7E /* Delegate-Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0113BBCB211AE1C700E44B7E /* Delegate-Pattern.swift */; };
+		0113BBCE211AF08D00E44B7E /* Mediator-Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0113BBCD211AF08D00E44B7E /* Mediator-Pattern.swift */; };
+		0113BBD0211BCDF900E44B7E /* Strategy-Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0113BBCF211BCDF900E44B7E /* Strategy-Pattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +47,8 @@
 		0113BBC7211ACFE600E44B7E /* Group-Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Group-Pattern.swift"; sourceTree = "<group>"; };
 		0113BBC9211AD52E00E44B7E /* Decorator-Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Decorator-Pattern.swift"; sourceTree = "<group>"; };
 		0113BBCB211AE1C700E44B7E /* Delegate-Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Delegate-Pattern.swift"; sourceTree = "<group>"; };
+		0113BBCD211AF08D00E44B7E /* Mediator-Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mediator-Pattern.swift"; sourceTree = "<group>"; };
+		0113BBCF211BCDF900E44B7E /* Strategy-Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strategy-Pattern.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,8 @@
 			children = (
 				0113BBB9211A773600E44B7E /* Commond-Pattern.swift */,
 				0113BBBA211A773600E44B7E /* Oberser-Pattern.swift */,
+				0113BBCD211AF08D00E44B7E /* Mediator-Pattern.swift */,
+				0113BBCF211BCDF900E44B7E /* Strategy-Pattern.swift */,
 				0113BBBD211A779200E44B7E /* README-BehaviorType.md */,
 			);
 			path = "Behavior-Type";
@@ -177,6 +183,7 @@
 				0113BBBB211A773600E44B7E /* Commond-Pattern.swift in Sources */,
 				0113BBCA211AD52E00E44B7E /* Decorator-Pattern.swift in Sources */,
 				0113BBC3211ABAE200E44B7E /* AbstractFactory-Pattern.swift in Sources */,
+				0113BBCE211AF08D00E44B7E /* Mediator-Pattern.swift in Sources */,
 				0113BBAC2119A26700E44B7E /* main.swift in Sources */,
 				0113BBC1211A99C700E44B7E /* Factory-Pattern.swift in Sources */,
 				0113BBCC211AE1C700E44B7E /* Delegate-Pattern.swift in Sources */,
@@ -184,6 +191,7 @@
 				0113BBBC211A773600E44B7E /* Oberser-Pattern.swift in Sources */,
 				0113BBC8211ACFE600E44B7E /* Group-Pattern.swift in Sources */,
 				0113BBBF211A960100E44B7E /* SimpleFactory-Pattern.swift in Sources */,
+				0113BBD0211BCDF900E44B7E /* Strategy-Pattern.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

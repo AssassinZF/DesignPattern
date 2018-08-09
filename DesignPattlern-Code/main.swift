@@ -16,7 +16,9 @@ print("设计模式测试Log>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n")
 
 //testGroup()
 
-testDecorator()
+//testDecorator()
+//testMediator()
+testStrategy()
 
 
 
